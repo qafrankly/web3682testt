@@ -1,11 +1,11 @@
 import React, { Component, PropTypes } from 'react';
 
-class MultiModulesDemo extends Component {
+class MultiModulesDemo2 extends Component {
 	
   render(){
 	  
     return (
-      <div className='FranklyModulesDemo'>
+      <div className='FranklySecondModulesDemo'>
 	      <h2 className='demo_text'>mod2: {this.props.text}</h2>
       </div>
     );
@@ -13,4 +13,4 @@ class MultiModulesDemo extends Component {
   }
 }
 
-export default ModuleDemo;
+export default MultiModulesDemo2;
