@@ -1,6 +1,6 @@
 import React, { Component, PropTypes } from 'react';
 
-class MultiModulesDemo1 extends Component {
+class MultiModulesDemo11 extends Component {
 	
   render(){
 	  
@@ -13,4 +13,4 @@ class MultiModulesDemo1 extends Component {
   }
 }
 
-export default MultiModulesDemo1;
+export default MultiModulesDemo11;
